@@ -7,5 +7,5 @@ The users are added dynamically as they recieve a Voicemail, if they do not have
 for the given day they do not appear.
 The code should be fully responsive.
 
-![alt text](https://github.com/michaelDXP/wildix_voicemails_pbx/upload/master/Screen Shot 2019-03-28 at 15.43.31.png)
-![alt text](https://github.com/michaelDXP/wildix_voicemails_pbx/upload/master/Screen Shot 2019-03-28 at 15.39.14.png)
+https://github.com/michaelDXP/wildix_voicemails_pbx/upload/master/Screen Shot 2019-03-28 at 15.43.31.png
+https://github.com/michaelDXP/wildix_voicemails_pbx/upload/master/Screen Shot 2019-03-28 at 15.39.14.png

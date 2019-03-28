@@ -1,6 +1,6 @@
 # wildix_voicemails_pbx
 Community Project:
-Very simple PHP/MYSQL starter Code for a voicemail counting wallboard for Wildix virtual and HW PBX from the CDR database.
+Very simple PHP/MYSQL starter Code for the community to play with and improve. A voicemail counting wallboard for Wildix virtual and HW PBX from the CDR database.
 
 Displays the extension and number of voicemails for "Today" - easily configurable for different scenarios.
 The users are added dynamically as they recieve a Voicemail, if they do not have voicemails 

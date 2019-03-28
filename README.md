@@ -6,6 +6,7 @@ Displays the extension and number of voicemails for "Today" - easily configurabl
 The users are added dynamically as they recieve a Voicemail, if they do not have voicemails 
 for the given day they do not appear.
 The code should be fully responsive.
+The values refresh every second - you can change this in the index.php to a sloweer rate if required.
 
 ![Full Screen View](https://github.com/michaelDXP/wildix_voicemails_pbx/blob/master/wide.png)
 ![Mobile View](https://github.com/michaelDXP/wildix_voicemails_pbx/blob/master/mobile.png)
